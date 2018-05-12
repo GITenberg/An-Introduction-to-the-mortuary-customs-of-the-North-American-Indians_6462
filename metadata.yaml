@@ -1,4 +1,8 @@
 _repo: An-Introduction-to-the-mortuary-customs-of-the-North-American-Indians_6462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yarrow, H. C. (Harry Crécy)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '3964'
     url: http://www.gutenberg.org/2009/agents/3964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6462#An-Introduction-to-the-mortuary-customs-of-the-North-American-Indians
 gutenberg_bookshelf:
 - Native America
 - Archaeology
